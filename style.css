@@ -1,0 +1,25 @@
+body
+{
+	text-align: center;
+}
+span
+{
+	font-size: 18px;
+	color: red;
+}
+canvas
+{
+	background: pink;
+	border-radius: 20px;
+}
+
+.copy_right_footer{
+	position: fixed;
+	bottom: 0px;
+	background-color: black;
+	width: 100%;
+	color: yellow;
+	letter-spacing: 5px;
+	height: 50px;
+	font-size: 25px;
+}
